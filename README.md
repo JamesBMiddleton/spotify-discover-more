@@ -10,6 +10,7 @@ recommendations based on a playlist of tracks from that genre that you use as th
 
 - Python3 w/ venv module
 - Seed and target playlists are public
+- Seed playlist contains more than 5 tracks
 
 ## Usage
 
