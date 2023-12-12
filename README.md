@@ -21,6 +21,6 @@ recommendations based on a playlist of tracks from that genre that you use as th
     - redirect uri: 'http://127.0.0.1:9090'
     - APIs: select Web API
 3. Go to the app and click 'Settings'
-4. Copy the client-id and client-secret in the `scripts/run_template.sh` file
-5. Change the seed playlist and target playlists
+4. Copy the client-id and client-secret into the `scripts/run_template.sh` file
+5. Change the seed playlist and target playlists in `scripts/run_template.sh`
 6. Run the script!
