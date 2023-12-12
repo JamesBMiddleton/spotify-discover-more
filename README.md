@@ -3,13 +3,13 @@
 Replace the contents of a target playlist with recommendations based on the
 contents of a seed playlist
 
-The idea is to have a '<GENRE> Discover' target playlist which you can frequently repopulate with new 
+The idea is to have a '\<GENRE\> Discover' target playlist which you can frequently repopulate with new 
 recommendations based on a playlist of tracks from that genre that you use as the seed playlist.
 
 ## Dependencies
 
 - Python3 w/ venv module
-- Seed and Target Playlist are public
+- Seed and target playlists are public
 
 ## Usage
 
