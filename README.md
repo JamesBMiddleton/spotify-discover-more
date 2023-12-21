@@ -23,5 +23,6 @@ recommendations based on a playlist of tracks from that genre that you use as th
     - APIs: select Web API
 3. Go to the app and click 'Settings'
 4. Copy the client-id and client-secret into the `scripts/run_template.sh` file
-5. Change the seed playlist and target playlists in `scripts/run_template.sh`
-6. Run the script!
+5. In the Spotify mobile app or web app, create a new playlist to use as your target playlist e.g. if your seed playlist is 'Techno' you could call it 'Techno Discover'
+6. Change the seed playlist and target playlists in `scripts/run_template.sh`
+7. Run the script!
